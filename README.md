@@ -1,2 +1,1 @@
-# V.O.I.C.E
-# V.O.I.C.E
+# Virtual Operator for Intelligent Conversational Engagement
